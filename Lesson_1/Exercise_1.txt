@@ -1,0 +1,42 @@
+1. Choose the number in front of the invalid variable names:
+	1. x
+	2. _y
+	3. abc
+	4. true
+	5. 7b
+	8. not_a_valid_name
+	9. ab@c
+	10. str
+
+
+2. What is the print result of x?
+	x = 4
+	x = '4'
+	x = 4.0
+	print(type(x))
+
+
+3. What are the respective print results of x?
+	x = 4
+	print(type(x))
+	x = '4'
+	print(type(x))
+	x = 4.0
+	print(type(x))
+
+
+4. what is the output of the following code?
+	x = 4 + 'abc'
+	print(x)
+
+
+5. what is the output of the following code?
+	x = 4
+	y = '6'
+	print(x + y)
+
+
+6. what is the output of the following code?
+	x = '4'
+	y = '6'
+	print(x + y)
