@@ -40,3 +40,8 @@
 	x = '4'
 	y = '6'
 	print(x + y)
+	
+	
+7. Escape single quotation
+print('This is Jonny\'s dog.')
+print("This is Jonny\'s dog.")	

@@ -1,0 +1,32 @@
+txt = "The best things in life are free!"
+
+str_without_space = " est "
+
+print('(' + str_without_space + ')')
+
+str_without_space = str_without_space.strip() # "est"
+
+print('&' + str_without_space + '@')
+
+is_free_in_txt = str_without_space in txt  #True/False  == "est" in txt 
+
+print(type(is_free_in_txt)) # bool
+
+print(is_free_in_txt)  #True False
+
+
+
+print(4+6) #10
+
+# no calculation = make the variable passed into print method a str
+# problem becomes how to make "4"+"6" a str.
+# "" / ''
+print('"4"+"6"')
+
+
+
+txt = "The best things in life are free!"
+if "free" not in txt:
+  print("No, 'free' is not present.")
+
+
