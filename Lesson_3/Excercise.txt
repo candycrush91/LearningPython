@@ -6,7 +6,7 @@ print("^"+str_without_space+"^")
 
 
 2. what is the output of the following code?
-print(int(17.816))
+print(int(17.816))sdkfjlks
 
 
 3. txt = "Hi Candice! Happy learning Python!"
