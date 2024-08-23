@@ -1,18 +1,21 @@
 1. What is the output of the following code?
 
-str_with_space = " e  st     "
+str_with_space =" e  st     "
 str_without_space = str_with_space.strip()
 print("^"+str_without_space+"^")
 
+^e  st^
+
 
 2. what is the output of the following code?
-print(int(17.816))sdkfjlks
+print(int(17.816))
+17
 
 
 3. txt = "Hi Candice! Happy learning Python!"
-	3.1 print the index number of the first 'y'
-	3.2 how many characters are there in txt[1:8]?
-	3.3 use 3 different index pairs to print "learning"
+	3.1 print the index number of the first 'y'	16 print(txt.index("y")
+	3.2 how many characters are there in txt[1:8]?	i Candi
+	3.3 use 3 different index pairs to print "learning" txt[18:26] txt[]
 	
 	Big Challenge(Optional): print the index number of the second 'y'
 	
